@@ -71,7 +71,6 @@ Best Model: Deep (5 Layers) Neural Network Hyperband Tuned
     - 'batch_size': 32
 
 
- 
 ## Recommendations
 1. Implement the best Neural Network model during initial Email service rollout
 2. Continue to retrain and retune the models on new anonymized customer data
