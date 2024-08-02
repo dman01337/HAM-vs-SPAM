@@ -13,6 +13,7 @@ Actual emails in the form of individual HTML files were used in the analysis:
 - 5825 HTML files in total
 - Each email was previously labeled as HAM or SPAM and sorted into folders
 
+NOTE: Due to the size of the dataset (76Mb), I did not post it in this github repo.  It can found online here:
 Source: https://spamassassin.apache.org/old/publiccorpus/
 
 ## Methods
@@ -89,7 +90,7 @@ Best Model: Deep (5 Layers) Neural Network Hyperband Tuned
 
 
 ## For More Information
-To see the full data analysis check out the [Jupyter Notebook](./Spam_Filter.ipynb) or review the [presentation](./Spam_Filter_Presentation.pdf).
+To see the full data analysis check out the [Jupyter Notebook](./Spam_Filter_Notebook.ipynb) or review the [presentation](./Spam_Filter_Presentation.pdf).
 
 For any additional questions please contact Dale DeFord at:
 - daledeford@gmail.com
@@ -97,7 +98,6 @@ For any additional questions please contact Dale DeFord at:
 
 ## Repository Structure
 ```
-├── data
 ├── images
 ├── src
 ├── README.md
